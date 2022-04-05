@@ -9,10 +9,10 @@ const routes: Routes = [
     path:'', component:HomeComponent
   },
   {
-    path:'', component:PortfolioComponent
+    path:'portfolio', component:PortfolioComponent
   },
   {
-    path:'', component:ContactComponent
+    path:'contact', component:ContactComponent
   }
   
 ];
